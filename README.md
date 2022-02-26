@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aquilino88
+- 👀 I’m interested in studying Python & Data analysis.
+- 🌱 I’m currently learning Statistics.
+- 📫 How to reach me? via e-mail aquilino88@gmail.com
